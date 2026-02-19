@@ -27,7 +27,7 @@ A simple, lightweight, user-friendly tool with an interface similar to SQL Serve
 
 ### Prerequisites
 - Windows 10 (version 1809+) or Windows 11
-- .NET 6.0 Desktop Runtime (x64)
+- .NET 8.0 Desktop Runtime (x64)
 
 ### Download & Install
 1. Download the latest release from [Releases](https://github.com/yourusername/SQLite-Management-Studio/releases)
